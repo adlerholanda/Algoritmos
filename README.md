@@ -1,2 +1,2 @@
 # Algoritmos
- Curso de algoritmo com Portugol Studio
+ Curso de algoritmo com Portugol Studio Version
